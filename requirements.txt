@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+supabase
+pydantic[email]
+slowapi
+groq
+tiktoken
+python-multipart
+httpx
